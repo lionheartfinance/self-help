@@ -10,7 +10,7 @@
 
 ## Categories
 ### Backend (Python/Django and GitHub)
-* [Lionheart-Core Usage](https://github.com/lionheartfinance/lionheart-core/blob/master/Readme.md)
+* [Lionheart-Core Usage](https://github.com/lionheartfinance/self-help/blob/master/Documentation/Lionheart-Core-Usage.md)
 
 ### Frontend (HTML/CSS/Javascript and GitHub)
 * [Setting Up GitHub Pages](https://github.com/lionheartfinance/self-help/blob/master/Documentation/Setting-Up-GitHub-Pages.md)
