@@ -13,7 +13,7 @@
 * [Link](#)
 
 ### Frontend (HTML/CSS/Javascript and GitHub)
-* [Link](#)
+* [Setting Up GitHub Pages](https://github.com/lionheartfinance/self-help/blob/master/Documentation/Setting-Up-GitHub-Pages.md)
 
 ### Miscellaneous
 * [Link](#)
