@@ -18,7 +18,7 @@ Be VERY careful when pushing updates to the development branch, especially anyth
 ## Documentation
 
 > Table of Contents
-> 1. [Application Structure](## Application Structure)
+> 1. [Application Structure](#Application-Structure)
 > 2. [Settings.py](##)
 > 3. [Creating New Pages](##)
 > 4. [Linking Static Content](##)
