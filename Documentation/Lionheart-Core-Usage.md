@@ -22,7 +22,7 @@ Be VERY careful when pushing updates to the development branch, especially anyth
 > 2. [Settings.py](#settingspy)
 > 3. [Creating New Pages](#Creating-New-Pages)
 > 4. [Linking Static Content](#Linking-Static-Content)
-> 5. [Deploying to Heroku](#Deplying to Heroku)
+> 5. [Deploying to Heroku](#Deploying-to-Heroku)
 
 ### Application Structure
 ---
