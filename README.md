@@ -6,7 +6,7 @@
 2. Once you have finished writing your new document, come to `README.md`.
 3. Create a new link to your file under the category that best relates to what you have written.
 4. Preview your changes.
-5. Describe what you have posted in the "Commit Changes" section, and then click "Commit."
+5. Describe what you have posted in the "Commit changes" section, and then click "Commit changes."
 
 ## Categories
 ### Backend (Python/Django and GitHub)
