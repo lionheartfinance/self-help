@@ -19,10 +19,10 @@ Be VERY careful when pushing updates to the development branch, especially anyth
 
 > Table of Contents
 > 1. [Application Structure](#Application-Structure)
-> 2. [Settings.py](##)
-> 3. [Creating New Pages](##)
-> 4. [Linking Static Content](##)
-> 5. [Deploying to Heroku](##)
+> 2. [Settings.py](#settingspy)
+> 3. [Creating New Pages](#Creating-New-Pages)
+> 4. [Linking Static Content](#Linking-Static-Content)
+> 5. [Deploying to Heroku](#Deplying to Heroku)
 
 ### Application Structure
 ---
