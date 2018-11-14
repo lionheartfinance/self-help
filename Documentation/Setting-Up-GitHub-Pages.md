@@ -1,16 +1,23 @@
 # How to Setup GitHub Pages
-*A simple way to understand how GitHub Pages is structured and how you will make changes live.*
+A simple way to understand how GitHub Pages is structured and how you will make changes live.
 
-#### Requirements Before You Start
-* Code Editor ([Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/3) are great)
-* A new GitHub Account for each new website you create<br>
-*Make sure your username is whatever you want the domain to be.*
-* [GitHub Desktop](https://desktop.github.com/) is installed on your computer.
+## Documentation
+> #### Table of Contents
+> 1. [Tools to Use](#Tools-to-Use)
+> 2. [Initial Setup](#Setting-Up-GitHub-Pages)
+> 3. [Adding Bootstrap](#Adding-Bootstrap-to-the-Repository)
 
-#### Recommended
-* General knowledge of HTML/CSS
-* [Bootstrap](https://getbootstrap.com/) package downloaded
-* General understanding of GitHub repositories
+## Tools to Use
+> #### Required
+> * Code Editor ([Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/3) are great)
+>* A new GitHub Account for each new website you create<br>
+> *Make sure your username is whatever you want the domain to be.*
+> * [GitHub Desktop](https://desktop.github.com/) is installed on your computer.
+
+> #### Recommended
+> * General knowledge of HTML/CSS
+> * [Bootstrap](https://getbootstrap.com/) package downloaded
+> * General understanding of GitHub repositories
 
 ## Setting Up GitHub Pages
 1. Create a [new GitHub repository](https://github.com/new).
