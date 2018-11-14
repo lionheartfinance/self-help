@@ -150,7 +150,7 @@ Simply push to the 'development' branch and Heroku will automtically redeploy th
  
 The staging (dev) server located at:
 
->[Lionheart Dev Server](lionheart-core-dev.herokuapp.com)
+>[Lionheart Dev Server](https://lionheart-core-dev.herokuapp.com/)
 
 
 
